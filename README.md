@@ -1,6 +1,10 @@
-# julia-distanceprofile.jl
+# julia-pangenealign.jl
 
 - profiling variants for the pangenes alignments.
+
+```
+include pangenealign.jl
+```
 
 Gaurav \
 Academic Staff Member \
