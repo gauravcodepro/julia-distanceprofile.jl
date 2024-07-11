@@ -1,6 +1,5 @@
 #! /usr/bin/env julia
 # Author Gaurav 
-# Universitat Potsdam 
 # Date 2024-7-5
 # a snp variablity matrix to estimate and filter the variants for pangene alignments
 # for faster rates, indexing the first element of the loop array, so that you dont have to traverse through the entire array. 
