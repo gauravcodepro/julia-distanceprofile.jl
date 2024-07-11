@@ -24,10 +24,5 @@ return
  'G': ASCII/Unicode U+0047 (category Lu: Letter, uppercase)
 ```
 
-Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
-University of Potsdam \
-Potsdam,Germany
+Gaurav 
 
