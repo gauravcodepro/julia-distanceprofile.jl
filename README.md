@@ -1,4 +1,4 @@
-# julia-pangenealign.jl
+# pangenealign.jl
 
 - profiling variants for the pangenes alignments.
 
